@@ -48,7 +48,6 @@ This is a visually appealing **Spotify Clone Web App** inspired by the original 
 <div align="center">
   <img src="assets/screenshot1.png" alt="Page 1" width="250" />
   <img src="assets/screenshot2.png" alt="Page 2" width="250" />
-  <img src="assets/screenshot3.png" alt="Page 3" width="250" />
 </div>
 
 ---
